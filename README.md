@@ -9,8 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soheil sedghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soheil sedghi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soheil-sedghi-5bbab3133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soheil sedghi" height="30" width="40" /></a>
 <a href="https://instagram.com/soheil.sedghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soheil.sedghi" height="30" width="40" /></a>
+<a href="https://t.me/soheilsedghi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telegram_alternative_logo.svg/2048px-Telegram_alternative_logo.svg.png" alt="soheil.sedghi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
