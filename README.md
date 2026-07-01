@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soheil Sedghi</h1>
-<h3 align="center">A passionate Machine Intelligence and Robotics Students.</h3>
+<h3 align="center">A passionate Machine Intelligence and Robotics Enginneer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soheilsedghi&label=Profile%20views&color=0e75b6&style=flat" alt="soheilsedghi" /> </p>
 
-- 🔭 I’m currently working on **Deep control of Robots.**
+- 🔭 I’m currently working on **Machine Vision and Deep control of Robots.**
 
 - 📫 How to reach me **soheilsedghi879@gmail.com**
 
